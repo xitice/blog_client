@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "黑木资源",
+      "name": "👖黑木影视✈️TG频道@stymei1",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
